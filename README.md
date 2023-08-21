@@ -4,19 +4,19 @@ O repositório presente apresenta somente o código desenvolvido para resoluçã
 
 A fim de deixar claro os resultados obtidos, também está presente provas do funcionamento, tanto da Instância EC2, quanto do banco de dados RDS e da aplicação funcional, assim como os dados obtidos na tabela do banco de dados e o vídeo demonstrando todo o percurso:
 
-![ec2 Rodando](/var/www/html/ponderada-sem-03-m7/ec2Rodando.png)
+![ec2 Rodando](/ec2Rodando.png)
 A instância EC2 permite que a aplicação WEB seja acessada por meio do DNS público, como o mostrado a seguir: ec2-44-206-80-213.compute-1.amazonaws.com
 
-![RDS Rodando](/var/www/html/ponderada-sem-03-m7/RDSRodando.png)
+![RDS Rodando](/RDSRodando.png)
 Banco RDS permite com que os dados de compra enviados sejam armazenados com segurança
 
-![Página Web Funcional](/var/www/html/ponderada-sem-03-m7/paginaWeb.png)
+![Página Web Funcional](/paginaWeb.png)
 Aplicação integrada com o banco de dados, como esperado
 
-![Banco de Compra](/var/www/html/ponderada-sem-03-m7/bancoCompra.png)
+![Banco de Compra](/bancoCompra.png)
 Evidência de que o resultado escrito no input do front-end de fato veio para a tabela Compra criada para essa atividade
 
-![Banco de Employees padrão](/var/www/html/ponderada-sem-03-m7/bancoEmployees.png)
+![Banco de Employees padrão](/bancoEmployees.png)
 Evidência de que o resultado escrito no input do front-end de fato veio para a tabela Employees criada pelo tutorial e mantida
 
 
